@@ -1,5 +1,5 @@
 <figure markdown="span">
-  ![Image title](/assets/map.png){ width="400" }
+  ![Image title](assets/map.png){ width="400" }
   <figcaption>Caribou Population Map</figcaption>
 </figure>
 

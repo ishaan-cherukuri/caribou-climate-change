@@ -4,7 +4,7 @@ Cariobu populations have been experiancing a drastic ***decline*** in numbers.
     
 
 <figure markdown="span">
-  ![Image title](/assets/pop.png){ width="500" }
+  ![Image title](assets/pop.png){ width="500" }
   <figcaption>
     <h2>Cariobu Population Map</h2>
   </figcaption>
