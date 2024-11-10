@@ -1,0 +1,1 @@
+In summer, the sun remains above the horizon 24 hours a day for from 2 to 85 consecutive days, depending on the latitude; in winter, it can remain below the horizon 24 hours a day for as long as 67 consecutive days. All sunlight is received at oblique angles that average 41 degrees. 

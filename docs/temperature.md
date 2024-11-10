@@ -1,0 +1,1 @@
+The severe arctic climate reaches temperatures of -60F (-51C) in winter. Average annual temperature is only 10 to 20F (-12C to -6C). Due to its location in the extreme north, this province gets very different amounts of sunlight at different times of year. 

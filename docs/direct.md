@@ -1,0 +1,1 @@
+A change in the caribou population would directly affect the Arctic Wolf population, which preys on caribou. If the caribou population decreases, the Arctic Wolf would have less food available, potentially leading to a decline in its population. Conversely, an increase in caribou could support a growth in the Arctic Wolf population.
